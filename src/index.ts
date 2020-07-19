@@ -1,9 +1,9 @@
-interface Config{
+interface Config {
   secret: string
 }
 
-function hush (config: Config): string {
-  return config.secret
+function hush (): boolean {
+  return true;
 }
 
 export default hush;
