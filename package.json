@@ -18,5 +18,8 @@
   "homepage": "https://github.com/lewissteele/hush#readme",
   "devDependencies": {
     "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.715.0"
   }
 }
