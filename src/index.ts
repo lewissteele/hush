@@ -7,3 +7,7 @@ function hush (): boolean {
 }
 
 export default hush;
+
+export {
+  Config,
+};
